@@ -42,7 +42,7 @@ The Event Planner is a front end application built using React where signed in u
   | DELETE | `/events/:id/`          | `events#delete`    |
 
   ## Links
-  - Deployed Front-End Client:
+  - Deployed Front-End Client:https://ajamcato.github.io/capstone-client/
   - Front-End Client Repository: https://github.com/ajamcato/capstone-client
   - Deployed Back-End API: https://morning-reef-49097.herokuapp.com/
   - Back-End API repository: https://github.com/ajamcato/capstone-api
